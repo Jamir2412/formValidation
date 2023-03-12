@@ -1,0 +1,21 @@
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);  
+}
+h1{
+    text-align: left;
+    margin-left: 26px;
+}
+
+.col-md-6{
+    margin: 150px;
+}
+
+input{
+    width: 100%;
+    margin: 10px;
+}
+
+
